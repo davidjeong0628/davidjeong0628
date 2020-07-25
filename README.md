@@ -1,8 +1,17 @@
-# Hello. 👋
-<!--
-**davidjeong0628/davidjeong0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
+# :wave: I'm David 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+### :computer: :us:
+
+I am a second year (Junior standing) undergraduate at UC San Diego, majoring in 
+Computer Science (B.S.). Expected to graduate in June 2022. As of now, I am exploring 
+the realm of computer science with an open-mind.
+
+🔭 I’m currently working on ![blog](https://github.com/davidjeong0628/blog). 
+
+### :world_map:
+
+![Website](https://davidjeong0628.github.io/personal_website/)
+
+![Email](davidjeong0628@gmail.com)
+
+![LinkedIn](https://www.linkedin.com/in/david-jeong-b85488192/)

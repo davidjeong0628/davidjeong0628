@@ -12,6 +12,6 @@ the realm of computer science with an open-mind.
 
 * [Website](https://davidjeong0628.github.io/personal_website/)
 
-* [Email](davidjeong0628@gmail.com)
+* [Email](mailto:davidjeong0628@gmail.com)
 
 * [LinkedIn](https://www.linkedin.com/in/david-jeong-b85488192/)
